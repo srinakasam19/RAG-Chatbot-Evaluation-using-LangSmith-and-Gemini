@@ -111,6 +111,30 @@ This helps improve debugging, monitoring, and evaluation of LLM
 applications.
 
 ------------------------------------------------------------------------
+simple architecture diagram
+User Question
+      ↓
+Document Loader
+      ↓
+Text Splitter
+      ↓
+Embeddings (Gemini)
+      ↓
+Vector Store
+      ↓
+Retriever
+      ↓
+Gemini LLM
+      ↓
+Generated Answer
+      ↓
+LangSmith Evaluation
+   ├ Correctness
+   ├ Relevance
+   ├ Groundedness
+   └ Retrieval Relevance
+   
+------------------------------------------------------------------------
 
 ## Running the Project
 
