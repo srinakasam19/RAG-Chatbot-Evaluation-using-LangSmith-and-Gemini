@@ -143,5 +143,4 @@ Open the Jupyter notebook in **VS Code** and run the cells sequentially.
 ## Author
 
 **Laxmi Srina**\
-B.Tech CSE (AI & ML)\
-Vardhaman College of Engineering
+
