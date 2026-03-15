@@ -63,6 +63,28 @@ evaluators**.
         LangSmith.
 
 ------------------------------------------------------------------------
+simple architecture diagram
+User Question
+      ↓
+Document Loader
+      ↓
+Text Splitter
+      ↓
+Embeddings (Gemini)
+      ↓
+Vector Store
+      ↓
+Retriever
+      ↓
+Gemini LLM
+      ↓
+Generated Answer
+      ↓
+LangSmith Evaluation
+   ├ Correctness
+   ├ Relevance
+   ├ Groundedness
+   └ Retrieval Relevance
 
 ## Evaluation Metrics
 
