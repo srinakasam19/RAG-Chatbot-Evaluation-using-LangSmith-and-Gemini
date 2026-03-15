@@ -142,5 +142,5 @@ Open the Jupyter notebook in **VS Code** and run the cells sequentially.
 
 ## Author
 
-**Laxmi Srina**\
+**Laxmi Srina**
 
