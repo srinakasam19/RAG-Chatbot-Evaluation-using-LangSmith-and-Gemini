@@ -64,6 +64,7 @@ evaluators**.
 
 ------------------------------------------------------------------------
 SIMPLE ARCHITECTURE
+```
 User Question
      ↓
 Document Loader
@@ -85,7 +86,8 @@ LangSmith Evaluation
    ├── Relevance
    ├── Groundedness
    └── Retrieval Relevance
-
+```
+------------------------------------------------------------------------
 ## Evaluation Metrics
 
 ### Correctness
