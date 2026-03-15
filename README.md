@@ -139,6 +139,10 @@ Open the Jupyter notebook in **VS Code** and run the cells sequentially.
 -   Implement advanced retrieval techniques
 
 ------------------------------------------------------------------------
+“Why is this project useful?”
+
+This project shows how to build reliable LLM applications, because evaluation and observability are critical in production AI systems.
+Instead of manually checking outputs, we can automatically evaluate model performance using LLM-based grading.
 
 ## Author
 
